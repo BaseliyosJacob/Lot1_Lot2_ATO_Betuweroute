@@ -7,7 +7,7 @@
 ![](https://github.com/BaseliyosJacob/Technical_Spec_ATO_Cargo_Betuweroute/blob/main/Logo%202.png)
 
 
-## How to repositories (need first to register):
+## How to get to repositories (need first to register):
 
 * **If you have already a git-hub username and registration:**
 Please send me your git-hub username and the requested repository you need access to (baseliyos.jacob@deutschebahn.com and rolf.muehlemann2@sbb.ch). Access will grant as soon requirements are fulfilled.
@@ -18,7 +18,7 @@ As soon your request has been approved by the admin (baseliyos.jacob@deutschebah
 * **If you haven not already a git-hub username and registration:**
 Please register [here](https://github.com) and send your username for access to the requested repository you need to access to the admin (baseliyos.jacob@deutschebahn.com). **Next step:** please read "if you have already a git-hub username and registration."
 
-### Overview OCORA Repositories, Link, Description, Access Status and Access Requirements
+### Overview Repositories, Link, Description, Access Status and Access Requirements
 * Username: Please assemble your username by using Surname + lastname + company to have full transparency about the use e.g. BaseliyosJacobDBCargo - this is required to get access!!! Thank you very much.
 
 ## How to drop a questions, comment and review to OCORA? Use the issue tracker and open issues
